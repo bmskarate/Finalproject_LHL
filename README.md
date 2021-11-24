@@ -1,7 +1,7 @@
 # Live Attendance Tracker with Facial Recognition
 ### This is a project for the course (Data Science and Machine Learning) at Lighthouse Labs.
 
-![Lou and Ryan](http://github.com/bmskarate/final_project_LHL/Readme_images/Live_feed.png)
+![Lou and Ryan](https://github.com/bmskarate/Finalproject_LHL/blob/main/Readme_Images/Live_feed.png?raw=true)
 
 This attendance based software includes input feature for new users, and facial recognition feature for existing users. This implementation allows for a touchless, COVID friendly approach to taking attendance.
 
@@ -28,9 +28,8 @@ The GUI displays three options:
 3. Add - Opens camera(0) on computer, creates new numbered folder and saves images of users face.
 4. Recognize - Opens camera(0) on computer, recognizes face of user and displays name. Attendees logged to Attendance.csv file.
 
-![main](http://github.com/bmskarate/final_project_LHL/Readme_images/program_mainscreen.png)
-![main](http://github.com/bmskarate/final_project_LHL/Readme_images/student_input_images.png)
-![main](http://github.com/bmskarate/final_project_LHL/Readme_images/attendlog.png)
+![main](https://github.com/bmskarate/Finalproject_LHL/blob/main/Readme_Images/program_mainscreen.png?raw=true)
+![main](https://github.com/bmskarate/Finalproject_LHL/blob/main/Readme_Images/attendlog.png?raw=true)
 
 
 ## Future Improvements
