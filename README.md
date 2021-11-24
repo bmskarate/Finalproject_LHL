@@ -7,13 +7,13 @@ This attendance based software includes input feature for new users, and facial 
 
 
 ## Libraries and Python Version
-Python 3.8.12  
-face_recognition  
-opencv-python (cv2)  
-tkinter (GUI)  
-uuid (image name)  
-glob (img path)  
-numpy  
+- Python 3.8.12  
+- face_recognition  
+- opencv-python (cv2)  
+- tkinter (GUI)  
+- uuid (image name)  
+- glob (img path)  
+- numpy  
 
 
 ## Installation
