@@ -33,6 +33,7 @@ The GUI displays three options:
 
 
 ## Future Improvements
-1. Add a feature to log when user leaves (break or clockout).
-2. Add a feature to log when user returns (break or clockin).
+1. Add a feature to log when user leaves and returns (break or clockout).
+2. Add a feature to log when user is absent (schedule list link).
 3. Add face mask detection to ensure user has their mask on properly.
+4. Make alert if face is unknown (not in database).
