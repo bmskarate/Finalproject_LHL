@@ -85,8 +85,8 @@ while True:
         # print(face_loc) did this to see the coordinates for the face
         y1, x1, y2, x2 = face_loc[0], face_loc[1], face_loc[2], face_loc[3]
 
-        cv2.putText(frame, name, (x1, y1 - 10), cv2.FONT_HERSHEY_DUPLEX, 2, (0, 0, 200), 2) # 255's was 0,0,200
-        cv2.rectangle(frame , (x1, y1), (x2, y2), (0, 0, 200), 4) # cv2.filled WAS 3.0
+        cv2.putText(frame, name, (x1, y1 - 10), cv2.FONT_HERSHEY_DUPLEX, 2, (50, 205, 50), 2) # 255's was 0,0,200
+        cv2.rectangle(frame , (x1, y1), (x2, y2), (50, 205, 50), 4) # cv2.filled WAS 3.0
         markAttendance(name)
 
     cv2.imshow('frame', frame)
